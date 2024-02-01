@@ -8,6 +8,7 @@ Using `auth()` or `currentUser()` inside a server action, that is declared outsi
 ```
 [Error]: Dynamic server usage: Page couldn't be rendered statically because it used `cookies`. See more info here: https://nextjs.org/docs/messages/dynamic-server-error
 ```
+See issue info on [Clerk](https://github.com/clerk/javascript/issues/2710)
 # Getting Started
 1. Run `npm i`
 2. Create a `.env.local` file in the following format 
