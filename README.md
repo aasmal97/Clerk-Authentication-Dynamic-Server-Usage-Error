@@ -22,4 +22,4 @@ NEXT_PUBLIC_CLERK_SIGN_UP_URL="/sign-up"
 
 # Important Files
 - `actions.ts` can be located [here](app\actions.ts)
-- `page.ts` can be located [here](app\page.tsx)
+- `page.tsx` can be located [here](app\page.tsx)
